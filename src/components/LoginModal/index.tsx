@@ -42,9 +42,9 @@ export function LoginCard(props: {
   return (
     <LoginForm<RequestLoginParams>
       form={props.form}
-      logo="https://u1.dl0.cn/icon/openailogo.svg"
-      title=""
-      subTitle="全网最便宜的人工智能对话"
+      logo="https://img-view-c-sz.drive.quark.cn/bo2dzZ1p/2324846460/649310eb8d36ae2a3ba1446383192532f03f8f0c/649310eb8706ef67118a47b386979b3d43b4ca19/preview_png?auth_key=1687370611-22-10800-4f92c046af063649a9a458bd410ae028&sp=199&token=2-4df4595c3b9a2189523025312e289af2-0-3-1024-e7c4e04fc21e4a20838e3d7ade0b818f-e52d6155b423384fb38e5b743d1eec8c"
+      title="Hello"
+      subTitle="星球新能独家人工智能对话——解决你的种种忧虑"
       actions={(
         <Space>
           <HeartFilled />
